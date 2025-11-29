@@ -1,5 +1,5 @@
-import { Navbar } from "@/components/Navbar";
-import { VideoCreator } from "@/components/VideoCreator";
+import { Navbar } from "../components/Navbar";
+import { VideoCreator } from "../components/VideoCreator";
 
 const Create = () => {
   return (

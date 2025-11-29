@@ -1,5 +1,5 @@
-import { Navbar } from "@/components/Navbar";
-import { VideoGallery } from "@/components/VideoGallery";
+import { Navbar } from "../components/Navbar";
+import { VideoGallery } from "../components/VideoGallery";
 
 const Gallery = () => {
   return (

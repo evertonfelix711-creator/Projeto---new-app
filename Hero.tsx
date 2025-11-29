@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button";
+import { Button } from "./ui/button";
 import { Sparkles, Video, Zap } from "lucide-react";
 import { Link } from "react-router-dom";
 
